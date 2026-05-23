@@ -1,6 +1,10 @@
 # idx-finance
 
+[![npm version](https://img.shields.io/npm/v/idx-finance.svg)](https://www.npmjs.com/package/idx-finance) [![tests](https://img.shields.io/badge/tests-33%20passing-brightgreen)]() [![license](https://img.shields.io/npm/l/idx-finance.svg)](https://github.com/sulthonzh/idx-finance/blob/main/LICENSE) [![node](https://img.shields.io/node/v/idx-finance.svg)]()
+
 TypeScript library + CLI for Indonesian Stock Exchange (IDX) data. Zero API key required.
+
+> "The easiest way to get Indonesian stock data in your terminal or code."
 
 ## Install
 
