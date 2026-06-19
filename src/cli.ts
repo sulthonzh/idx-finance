@@ -1,7 +1,7 @@
 import { Command } from 'commander'
 import { getQuote, getTopGainers, getTopLosers, getIndex, searchStock } from './sources/yahoo.js'
 import { formatIDR, formatNumber, formatPercent } from './utils.js'
-import { validateSymbol, validatePositiveInt, sanitizeQuery } from './utils.js'
+import { validatePositiveInt, sanitizeQuery } from './utils.js'
 
 const program = new Command()
 program

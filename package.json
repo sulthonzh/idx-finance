@@ -23,7 +23,9 @@
     "idx": "./dist/cli.js"
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsup",
@@ -52,5 +54,14 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulthonzh/idx-finance.git"
+  },
+  "homepage": "https://github.com/sulthonzh/idx-finance#readme",
+  "bugs": {
+    "url": "https://github.com/sulthonzh/idx-finance/issues"
+  },
+  "author": "Sulthon"
 }
