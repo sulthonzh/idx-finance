@@ -64,5 +64,8 @@
   "bugs": {
     "url": "https://github.com/sulthonzh/idx-finance/issues"
   },
-  "author": "Sulthon"
+  "author": "Sulthon",
+  "publishConfig": {
+    "access": "public"
+  }
 }
